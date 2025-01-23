@@ -4,12 +4,11 @@ build-backend = "setuptools.build_meta"
 
 [project]
 name = "indexable_generator"
-version = "1.0.0"
+version = "1.0.1"
 authors = [
     { name="Tiago Simoes Beijoco", email="craft.uas@gmail.com" },
 ]
 dependencies = [
-    "requests",
     'importlib-metadata; python_version<"3.10"',
 ]
 description = "Implement Sequence functionalities to python Generators."

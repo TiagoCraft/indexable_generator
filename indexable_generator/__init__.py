@@ -2,7 +2,7 @@ import functools
 import itertools
 from typing import Any, Callable, Iterator, List, Tuple, Union, _alias
 
-__version__ = '1.0.0'
+__version__ = '1.0.1'
 
 
 class IndexableGenerator:
